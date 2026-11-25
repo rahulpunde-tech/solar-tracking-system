@@ -34,7 +34,13 @@ Hardware & Technology
 
 Project Photos
 
-Photographs of the hardware setup, Arduino, sensor circuit, servo motor and solar panel will be added to this repository.
+### Actual Hardware Prototype
+
+![Solar Tracking System](IMG_20261125_125309_811.jpg)
+
+![Solar Tracker Prototype](IMG_20261125_125317_645.jpg)
+
+![Solar Tracking Hardware](IMG_20261125_125322_452.jpg)
 
 Future Scope
 
@@ -49,4 +55,4 @@ Two first-year engineering students.
 
 Project Status
 
-Prototype built and tested. Source code and additional documentation will be added.
+Prototype built and tested successfully. Arduino source code and hardware photographs are available in this repository.
